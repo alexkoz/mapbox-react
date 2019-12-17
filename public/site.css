@@ -18,3 +18,10 @@
     left: 10px;
     bottom: 0;
 }
+
+#menu {
+    position: absolute;
+    background: #fff;
+    padding: 10px;
+    font-family: "Open Sans", sans-serif;
+}
